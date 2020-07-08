@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://imabin.ink</id>
+    <id>http://imabin.ink</id>
     <title>Abin</title>
-    <updated>2020-07-08T09:02:50.953Z</updated>
+    <updated>2020-07-08T09:05:47.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://imabin.ink"/>
-    <link rel="self" href="https://imabin.ink/atom.xml"/>
+    <link rel="alternate" href="http://imabin.ink"/>
+    <link rel="self" href="http://imabin.ink/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://imabin.ink/images/avatar.png</logo>
-    <icon>https://imabin.ink/favicon.ico</icon>
+    <logo>http://imabin.ink/images/avatar.png</logo>
+    <icon>http://imabin.ink/favicon.ico</icon>
     <rights>All rights reserved 2020, Abin</rights>
 </feed>
