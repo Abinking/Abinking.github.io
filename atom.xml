@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Abinking.github.io</id>
     <title>Abin</title>
-    <updated>2020-07-08T12:59:16.278Z</updated>
+    <updated>2020-07-09T06:21:44.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Abinking.github.io"/>
     <link rel="self" href="https://Abinking.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://Abinking.github.io/images/avatar.png</logo>
     <icon>https://Abinking.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Abin</rights>
+    <entry>
+        <title type="html"><![CDATA[书籍分享《达芬奇手稿》共四册]]></title>
+        <id>https://Abinking.github.io/post/shu-ji-fen-xiang-lesslessda-fen-qi-shou-gao-greatergreater-gong-si-ce/</id>
+        <link href="https://Abinking.github.io/post/shu-ji-fen-xiang-lesslessda-fen-qi-shou-gao-greatergreater-gong-si-ce/">
+        </link>
+        <updated>2020-07-09T06:13:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://Abinking.github.io/post-images/1594275536895.PNG" alt="" loading="lazy"><br>
+Google drive:https://drive.google.com/drive/folders/0B59W0kcOXxj6c3F1NWZPU3l1Z0E?usp=sharing</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello world]]></title>
         <id>https://Abinking.github.io/post/hello-world/</id>
